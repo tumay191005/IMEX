@@ -1,4 +1,3 @@
-<img width="1916" height="1068" alt="image" src="https://github.com/user-attachments/assets/1b28d6ff-bfbf-435b-80f8-b294503ed542" /># IMEX
 Nền tảng thương mại điện tử chuyên biệt cho thiết bị di động IMEX
 ```html
 <!DOCTYPE html>
