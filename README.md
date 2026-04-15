@@ -1,5 +1,4 @@
 Nền tảng thương mại điện tử chuyên biệt cho thiết bị di động IMEX
-import Link from "next/link";
 
 export default function Home() {
   return (
